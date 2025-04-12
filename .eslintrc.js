@@ -5,7 +5,7 @@ module.exports = {
     },
   },
   extends: [
-    '@tembty/eslint-config/vue3',
+    // '@tembty/eslint-config/vue3',
     /** ==== @vue/eslint-config-prettier ==== */
     '@vue/eslint-config-prettier',
     // Turn on prettier rules
