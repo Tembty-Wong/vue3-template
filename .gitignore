@@ -1,0 +1,60 @@
+# editor directories and files
+*.iml
+.idea/
+.ipr
+.iws
+*~
+~*
+.project
+.*proj
+.buildpath
+.settings
+.history/
+.temp/**
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.un~
+*.sublime-project
+*.sublime-workspace
+
+# log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# production
+dist/
+
+auto-imports.d.ts
+components.d.ts
+
+# dependencies
+node_modules/
+
+# jscpd
+report/
+
+# coverage
+coverage
+.nyc_output
+
+# cache
+.stylelintcache
+.eslintcache
+
+# misc
+.DS_Store
+Thumbs.db
+.svn/
+*.diff
+*bak
+
+# lock file
+package-lock.json
+pnpm-lock.yaml
+.gitlogmap

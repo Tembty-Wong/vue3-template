@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+.history/
+.temp/
+.svn/
+
+/dist/
+/node_modules/
+/public/
+/report/
+*.html
